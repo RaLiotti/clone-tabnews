@@ -1,5 +1,5 @@
-export default home;
+export default Home;
 
-function home() {
-    return 'Estudando pela minha familia, te amo Mari!';
+function Home() {
+    return <h1>Estudando pela minha familia. <br/>Te amo Mari!!!!</h1>;
 }
