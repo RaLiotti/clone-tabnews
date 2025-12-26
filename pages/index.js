@@ -1,5 +1,10 @@
 export default Home;
 
 function Home() {
-    return <h1>Estudando pela minha familia. <br/>Te amo Mari!!!!</h1>;
+  return (
+    <h1>
+      Estudando pela minha familia. <br />
+      Te amo Mari!!!!
+    </h1>
+  );
 }
